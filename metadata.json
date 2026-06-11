@@ -1,0 +1,6 @@
+{
+  "name": "高雄港船舶動態",
+  "description": "高雄港船舶動態系統 - 學生期末專題展示",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
